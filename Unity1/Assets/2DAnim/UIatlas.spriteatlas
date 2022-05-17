@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIatlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 685c0b57f7e5c4add84859bb4ef8b7a7, type: 3}
+    - {fileID: 2800000, guid: 37f6c6fb321ad4710954e2eaa3d57791, type: 3}
+    - {fileID: 2800000, guid: bf4f8c4ec9d894084a787e5999d407a7, type: 3}
+    - {fileID: 2800000, guid: 78b28dba5854a27468573e44e3a919ad, type: 3}
+    - {fileID: 2800000, guid: 4f8c06a6606ba4691a8da5d0abe8332e, type: 3}
+    - {fileID: 2800000, guid: 19a991bbda38944fe9e46b17c9c7ce70, type: 3}
+    - {fileID: 2800000, guid: 59ec1a13a533548139b3cebe8ed491ba, type: 3}
+    - {fileID: 2800000, guid: ca15e163733754df096397f031537b1d, type: 3}
+    - {fileID: 2800000, guid: 01c62efadfd454a479ee0bd73c4b2018, type: 3}
+    - {fileID: 2800000, guid: 6e750fd74c75647a6ad4084d7ca478ee, type: 3}
+    - {fileID: 2800000, guid: 1c8431185995a43f4a7544bcb872b5db, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 59ec1a13a533548139b3cebe8ed491ba, type: 3}
+  - {fileID: 21300000, guid: ca15e163733754df096397f031537b1d, type: 3}
+  - {fileID: 21300000, guid: 4f8c06a6606ba4691a8da5d0abe8332e, type: 3}
+  - {fileID: 21300000, guid: 685c0b57f7e5c4add84859bb4ef8b7a7, type: 3}
+  - {fileID: 21300000, guid: 6e750fd74c75647a6ad4084d7ca478ee, type: 3}
+  - {fileID: 21300000, guid: 1c8431185995a43f4a7544bcb872b5db, type: 3}
+  - {fileID: 21300000, guid: 78b28dba5854a27468573e44e3a919ad, type: 3}
+  - {fileID: 21300000, guid: 01c62efadfd454a479ee0bd73c4b2018, type: 3}
+  - {fileID: 21300000, guid: 19a991bbda38944fe9e46b17c9c7ce70, type: 3}
+  - {fileID: 21300000, guid: 37f6c6fb321ad4710954e2eaa3d57791, type: 3}
+  - {fileID: 21300000, guid: bf4f8c4ec9d894084a787e5999d407a7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Dollar
+  - DownArrow
+  - Backward
+  - LeftArrow
+  - Facebook
+  - Cancel
+  - House
+  - Email
+  - Cancel
+  - RightArrow
+  - UpArrow
+  m_Tag: UIatlas
+  m_IsVariant: 0
